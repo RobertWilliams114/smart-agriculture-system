@@ -50,7 +50,7 @@ smart-agriculture-system/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-agriculture-system.git
+git clone https://github.com/RobertWilliams114/smart-agriculture-system.git
 cd smart-agriculture-system
 ```
 
