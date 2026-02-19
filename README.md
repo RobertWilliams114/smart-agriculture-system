@@ -1,6 +1,6 @@
 # Plant Disease Classification
 
-A deep learning model that classifies plant diseases from leaf images using transfer learning with ResNet-18. Achieves **98.36% accuracy** across 38 disease categories.
+A deep learning model that classifies plant diseases from leaf images using transfer learning with ResNet-18. Achieves **98.64% accuracy** across 38 disease categories.
 
 ## Overview
 
